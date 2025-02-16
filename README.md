@@ -8,6 +8,7 @@
 
 You can see more information about the bot itself by reading the summary on [here](https://github.com/Mantaro/MantaroBot/blob/master/FEATURES.md). This is the file we use to publish our bots on bot lists, too. You're welcome to use it as a guide for your own. Our [webpage](https://mantaro.site) is hosted in [Github Pages](https://github.com/Mantaro/mantaro.github.io) and outlines most features of the bot, alongside some useful links.
 
+# MANATARO IS NO LONGER ACTIVE
 # Building your own Mantaro
 
 ## ⚠ **Read before attempting**
